@@ -28,14 +28,14 @@
   }
   
   .navbar {
-    background-color:rgb(98, 0, 255);
+    background-color:rgb(213, 204, 226);
     border: none;
     color: black;
     transition: background-color 1s ease 0s;
   }
   
   .navbar.solid {
-    background-color: rgb(14, 13, 13);
+    background-color: rgb(219, 179, 179);
     background-image: linear-gradient(326deg, blue 0%, rgb(0, 4, 255) 75%);
     transition: background-color 1s ease 0s;
     box-shadow: 0 0 4px rgb(216, 214, 214);
