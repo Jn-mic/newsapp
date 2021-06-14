@@ -49,7 +49,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
     
 ## AUTHOR
  * JACK OWUOR
-* [MAKONJIO99 ](https://github.com/jn-mic)
+* [JACK OWUOR ](https://github.com/jn-mic)
 
 ## [Mit licence statement](https://github.com/jn-mic/newsapp/blob/main/Licence.md)
  © 2021 [JACK OWUOR](https://github.com/jn-mic)
