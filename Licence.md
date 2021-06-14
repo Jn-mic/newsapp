@@ -2,7 +2,7 @@ The Star And Thank Author License (SATA)
 
 Copyright (c) [2021] [JACK OWUOR](https://https://github.com/jn-mic) <jackotienokey@gmail.com>
 
-Project Url: https://github.com/MAKONJIO99/NEW-CENTER.git
+Project Url: https://github.com/jn-mic/newsapp.git
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
