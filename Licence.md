@@ -1,6 +1,6 @@
 The Star And Thank Author License (SATA)
 
-Copyright (c) [2021] [Francis makonjio](https://https://github.com/MAKONJIO99) <francismakonjio2@gmail.co@gmail.com>
+Copyright (c) [2021] [JACK OWUOR](https://https://github.com/jn-mic) <jackotienokey@gmail.com>
 
 Project Url: https://github.com/MAKONJIO99/NEW-CENTER.git
 Permission is hereby granted, free of charge, to any person obtaining a copy

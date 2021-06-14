@@ -9,7 +9,7 @@
 
 An application which shows news articles from various sources using the [News API](https://newsapi.org/), it is made by python web framework, Flask.
   
-# [view-app](https://news-za-dunia.herokuapp.com/)
+# [view-app](https:/)
 ## User Stories
 
 - A user I can view various news sources on the homepage of the application.
@@ -33,8 +33,8 @@ es which direct the user to the source website to read full article details
 
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/MAKONJIO99/NEW-CENTER/issues) by including your search query and the expected result.
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/MAKONJIO99/NEW-CENTER/issues). Please include sample queries and their corresponding results.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/jn-mic/newsapp/issues) by including your search query and the expected result.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com//jn-mic/newsapp/issues). Please include sample queries and their corresponding results.
 
 ## Built with
 
@@ -48,8 +48,8 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
     
 ## AUTHOR
- * MAKONJIO FRANCIS
-* [MAKONJIO99 ](https://github.com/MAKONJIO99)
+ * JACK OWUOR
+* [MAKONJIO99 ](https://github.com/jn-mic)
 
-## [Mit licence statement](https://github.com/MAKONJIO99/NEW-CENTER/blob/main/Licence.md)
- © [FRANCIS MAKONJIO](https://github.com/MAKONJIO99)
+## [Mit licence statement](https://github.com/jn-mic/newsapp/blob/main/Licence.md)
+ © 2021 [JACK OWUOR](https://github.com/jn-mic)
